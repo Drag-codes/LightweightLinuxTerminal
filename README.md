@@ -7,3 +7,5 @@ This terminal allows you to run every linux command you need, as long as you hav
 
 
 GNU LICENSE - The GNU General Public License is a series of widely used free software licenses that guarantee end users the freedom to run, study, share, and modify the software.
+
+Patreon: https://www.patreon.com/dragcodes?fan_landing=true
